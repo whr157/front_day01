@@ -1,0 +1,39 @@
+.bar{
+    width: 90px;
+    height: 20px;
+    background: greenyellow;
+    color: white;
+    text-align: right;
+}
+.small_address{
+    color: orange;
+    text-decoration: none;
+}
+.prompt_infor{
+    width: 320px;
+    height: 100px;
+    background: darkgray;
+}
+.button_go{
+    width: 130px;
+    height: 40px;
+    background: #ff9d00;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button_off{
+    width: 130px;
+    height: 40px;
+    background: rgba(203, 220, 185, 0.20);
+    color: darkgray;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.main_div{
+    width: 30%;
+    height: 1000;
+    border-top: 1px solid rgba(180, 179, 214, 0.49);
+}
